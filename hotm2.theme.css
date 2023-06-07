@@ -8,7 +8,7 @@
  * @invite 7pNUC9C
  * @BDEditor Clear Vision
 */
-
+@import local('Renogare Regular')
 @import url('https://clearvision.github.io/ClearVision-v6/main.css');
 
 :root {
@@ -63,7 +63,7 @@
   --dnd-color: #982929;
   --streaming-color: #593695;
   --offline-color: #808080;
-  --main-font: local('Renogare Regular');
+  --main-font: Renogare Regular;
   --code-font: Consolas;
   --channels-width: 220px;
   --members-width: 240px;
@@ -86,5 +86,4 @@
 }
 
 /* Any custom CSS below here */
-
 
